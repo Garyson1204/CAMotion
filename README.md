@@ -2,7 +2,7 @@
 
 **Authors:** Siyuan Yao, Hao Sun, Hai Long, Ruiqi Yu, Jiehong Li, Xiwei Jiang, Yanzhao Su, Wenqi Ren, and Xiaochun Cao.
 
-[Preprint]()
+[Preprint](https://github.com/Garyson1204/CAMotion/blob/77abc8095b48aae8e75412ab97b98872682f2feb/assets/CAMotion%20A%20High-Quality%20Dataset%20for%20Camouflaged%20Motion%20Object%20Detection%20in%20the%20Wild.pdf)
 
 ## Overview
 
