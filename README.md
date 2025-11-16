@@ -12,4 +12,4 @@ Discovering camouflaged objects is a challenging task in computer vision due to 
 
 ## Dataset
 
-The training and testing datasets can be downloaded at [Google Drive](https://drive.google.com/file/d/1WWoaAm0thggUtdo17FZMGeC74HJ36CUu/view?usp=sharing)
+The training and testing datasets can be found at [Google Drive](https://drive.google.com/file/d/1WWoaAm0thggUtdo17FZMGeC74HJ36CUu/view?usp=sharing)
