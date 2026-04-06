@@ -14,22 +14,19 @@ Discovering camouflaged objects is a challenging task in computer vision due to 
 
 <table>
   <tr>
-    <td align="center"><img src="./assets/Batfish_10.gif" width="180"><br>Batfish_10</td>
-    <td align="center"><img src="./assets/Cat_2.gif" width="180"><br>Cat_2</td>
-    <td align="center"><img src="./assets/Clownfish_8.gif" width="180"><br>Clownfish_8</td>
-    <td align="center"><img src="./assets/Common_octopus_17.gif" width="180"><br>Common_octopus_17</td>
-    <td align="center"><img src="./assets/Eurasian_bittern_4.gif" width="180"><br>Eurasian_bittern_4</td>
+    <td align="center"><img src="./assets/Batfish_10.gif" width="180"><br>Batfish</td>
+    <td align="center"><img src="./assets/Clownfish_8.gif" width="180"><br>Clownfish</td>
+    <td align="center"><img src="./assets/Common_octopus_17.gif" width="180"><br>Common octopus</td>
+    <td align="center"><img src="./assets/Leaf-tailed_geckos_22.gif" width="180"><br>Leaf-tailed geckos</td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/Leaf-tailed_geckos_22.gif" width="180"><br>Leaf-tailed_geckos_22</td>
-    <td align="center"><img src="./assets/Leafy_Seadragon_4.gif" width="180"><br>Leafy_Seadragon_4</td>
-    <td align="center"><img src="./assets/Mockingbird_17.gif" width="180"><br>Mockingbird_17</td>
-    <td align="center"><img src="./assets/Moss_mimic_stick_insect_9.gif" width="180"><br>Moss_mimic_stick_insect_9</td>
-    <td align="center"><img src="./assets/Orchid_mantis_12.gif" width="180"><br>Orchid_mantis_12</td>
+    <td align="center"><img src="./assets/Leafy_Seadragon_4.gif" width="180"><br>Leafy seadragon</td>
+    <td align="center"><img src="./assets/Mockingbird_17.gif" width="180"><br>Mockingbird</td>
+    <td align="center"><img src="./assets/Moss_mimic_stick_insect_9.gif" width="180"><br>Moss mimic stick insect</td>
+    <td align="center"><img src="./assets/Peppered_moth_14.gif" width="180"><br>Peppered moth</td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/Peppered_moth_14.gif" width="180"><br>Peppered_moth_14</td>
-    <td align="center"><img src="./assets/Pygmy_seahorse_9.gif" width="180"><br>Pygmy_seahorse_9</td>
+    <td align="center"><img src="./assets/Pygmy_seahorse_9.gif" width="180"><br>Pygmy seahorse</td>
     <td align="center"><img src="./assets/Snow_leopard_5.gif" width="180"><br>Snow_leopard_5</td>
     <td align="center"><img src="./assets/Snowy_owl_9.gif" width="180"><br>Snowy_owl_9</td>
     <td align="center"><img src="./assets/Stoat_4.gif" width="180"><br>Stoat_4</td>
