@@ -52,7 +52,7 @@ def get_result(self) -> dict:
     return dict(sm=self.sms)
 ```
 
-For Emeasure, it can be defined as:
+For `Emeasure`, it can be defined as:
 
 ```python
 def get_result(self) -> dict:
