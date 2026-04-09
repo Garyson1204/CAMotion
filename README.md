@@ -38,7 +38,7 @@ Discovering camouflaged objects is a challenging task in computer vision due to 
 
 ## Dataset
 
-The training and testing datasets can be found at [Google Drive](https://drive.google.com/file/d/1YzNdlDhsfgXTZ-Ya1w9wn3SjTXwU2xFs/view?usp=drive_link) and Baidu Netdisk.
+The training and testing datasets can be found at [Google Drive](https://drive.google.com/file/d/1YzNdlDhsfgXTZ-Ya1w9wn3SjTXwU2xFs/view?usp=drive_link) and [Baidu Netdisk](https://pan.baidu.com/s/1kUaHSzLSWEXTHGH8Ie2dlA?pwd=sbk8).
 
 ## Depth & Optical Flow
 
