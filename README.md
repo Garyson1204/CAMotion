@@ -65,6 +65,15 @@ and similarly for the other metrics. If you have any questions, please do not he
 
 For the provided image-level dataset, you can use [eval_image.py](./eval_image.py) to evaluate your predictions.
 
+For example, to evaluate [ZoomNeXt](https://github.com/lartpang/ZoomNeXt), after downloading the code and setting up the environment, download the checkpoint we provided in [Google Drive](https://drive.google.com/drive/folders/1DQ8By6yqSgdr_zoJj6_QHAXk0DycB1P9?usp=sharing) and run the following command to generate predictions:
+
+```bash
+python main_for_video.py --config configs/vcod_finetune.py --model-name videoPvtV2B5_ZoomNeXt --evaluate --load-from /PATH/TO/state_final.pth --save-results
+```
+
+Alternatively, you can directly use the predictions we provided in `ZoomNext.zip`. Modify the `mask_root` and `pred_root` in [eval_video.py](./eval_video.py) and run `python eval_video.py` to evaluate the performance.
+
+
 ## Citation
 
 ```bibtex
