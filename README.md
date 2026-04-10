@@ -63,7 +63,7 @@ def get_result(self) -> dict:
 
 and similarly for the other metrics. If you have any questions, please do not hesitate to contact us.
 
-If you use our provided image-level dataset, you can use [eval_image.py](./eval_image.py) to evaluate.
+If you use the provided image-level dataset, you can use [eval_image.py](./eval_image.py) for evaluation.
 
 ## Citation
 
