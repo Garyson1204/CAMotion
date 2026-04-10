@@ -62,3 +62,14 @@ def get_result(self) -> dict:
 ```
 
 and similarly for the other metrics. If you have any questions, please do not hesitate to contact us.
+
+## Citation
+
+```bibtex
+@article{yao2026camotion,
+  title={C{AM}otion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild},
+  author={Siyuan Yao and Hao Sun and Ruiqi Yu and Xiwei Jiang and Wenqi Ren and Xiaochun Cao},
+  journal={arXiv preprint arXiv:2604.08287},
+  year={2026}
+}
+```
