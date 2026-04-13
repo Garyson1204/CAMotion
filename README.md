@@ -71,7 +71,7 @@ _For example_, to evaluate [ZoomNeXt](https://github.com/lartpang/ZoomNeXt), aft
 python main_for_video.py --config configs/vcod_finetune.py --model-name videoPvtV2B5_ZoomNeXt --evaluate --load-from /PATH/TO/state_final.pth --save-results
 ```
 
-Alternatively, you can directly use the predictions we provided in `ZoomNext.zip`. Modify the `mask_root` and `pred_root` in [eval_video.py](./eval_video.py) and run `python eval_video.py` to evaluate the performance.
+Alternatively, you can directly use the predictions we provided in `ZoomNext.zip`. (Note: The evaluation printed by the command above yields correct per-sequence scores but an incorrect overall score. Please use `eval_video.py` for accurate overall metrics.) Modify the `mask_root` and `pred_root` in [eval_video.py](./eval_video.py) and run `python eval_video.py` to evaluate the performance.
 
 
 ## Citation
