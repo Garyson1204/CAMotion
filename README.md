@@ -40,7 +40,8 @@ Discovering camouflaged objects is a challenging task in computer vision due to 
 
 The training and testing datasets can be found at [Google Drive](https://drive.google.com/file/d/1YzNdlDhsfgXTZ-Ya1w9wn3SjTXwU2xFs/view?usp=drive_link) and [Baidu Netdisk](https://pan.baidu.com/s/1kUaHSzLSWEXTHGH8Ie2dlA?pwd=sbk8).
 
-**Note:** The CAMotion dataset is released for **academic research use only**. Commercial use is not allowed without permission from the authors.
+> **Usage Notice:** The CAMotion dataset is released for **academic research only**.  
+> Commercial use is strictly prohibited without permission from the authors.
 
 ## Depth & Optical Flow
 
