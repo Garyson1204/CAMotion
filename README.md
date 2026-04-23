@@ -1,4 +1,4 @@
-# CAMotion: A High-Quality Dataset for Camouflaged Moving Object Detection in the Wild
+# CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild
 
 **Authors:** Siyuan Yao, Hao Sun, Ruiqi Yu, Xiwei Jiang, Wenqi Ren, and Xiaochun Cao.
 
